@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Project3\Project3\MyForm.h(190,23): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\User\source\repos\Project3\Project3\MyForm.h(191,24): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\User\source\repos\Project3\Project3\MyForm.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\User\source\repos\Project3\x64\Debug\Project3.exe
